@@ -122,10 +122,39 @@ h2{
     text-align: center;
 }
 
-.Sapalaivka{
+.Sapalaivka, .Gydywka, .Omelanivka{
     text-align: center;
 }
 
-.Gydywka{
-    text-align: center;
+.PS{
+    width: 350px;
+    height: 300px;
 }
+
+.PS1{
+    padding-left: 30px;
+    width: 350px;
+    height: 300px;
+}
+
+.PG{
+    width: 400px;
+    height: 300px;
+}
+
+.PG1{
+    width: 400px;
+    height: 300px;
+}
+
+.PO{
+    width: 400px;
+    height: 300px;
+}
+
+.PO1{
+    padding-left: 30px;
+    width: 400px;
+    height: 300px;
+}
+    
