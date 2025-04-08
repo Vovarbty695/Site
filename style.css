@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color:rgb(255, 233, 193) ;
 }
 .header{
     margin: 0;
@@ -86,13 +87,6 @@ h2{
     text-align: center;
 }
 
-.Lutsk {
-    width: 400px;
-    height: 300px;
-    margin: 0; /* Прибираємо зайвий відступ */
-    border-radius: 20px;
-}
-
 .Map{
     width: 400px;
     height: 350px;
@@ -122,43 +116,160 @@ h2{
     text-align: center;
 }
 
-.Sapalaivka, .Gydywka, .Omelanivka{
+.Sapalaivka, .Gydywka, .Omelanivka, .Styr, .Glyshec{
+
+    justify-self: center;
     text-align: center;
+    background-color: rgb(237, 202, 156);
+    border-radius: 40px;
+    width: 95%;
+    margin-bottom: 40px;
+    border: 4px solid rgb(229, 191, 140);
 }
 
 .PS{
-    width: 350px;
-    height: 300px;
+    border-radius: 50px;
+    width: 400px;
+    height: 350px;
 }
 
 .PS1{
+    border-radius: 50px;
     padding-left: 30px;
-    width: 350px;
-    height: 300px;
+    width: 400px;
+    height: 350px;
+}
+.PS2{
+    border-radius: 50px;
+    padding-left: 30px;
+    width: 400px;
+    height: 350px;
+}
+.PS3{
+    border-radius: 50px;
+    padding-left: 30px;
+    width: 400px;
+    height: 350px;
 }
 
 .PG{
+    border-radius: 50px;
     width: 400px;
-    height: 300px;
+    height: 350px;
 }
 
 .PG1{
+    border-radius: 50px;
+    padding-left: 30px;
     width: 400px;
-    height: 300px;
+    height: 350px;
+}
+
+.PG2{
+    border-radius: 50px;
+    padding-left: 30px;
+    width: 400px;
+    height: 350px;
+}
+
+.PG3{
+    border-radius: 50px;
+    padding-left: 30px;
+    width: 400px;
+    height: 350px;
 }
 
 .PO{
+    border-radius: 50px;
     width: 400px;
-    height: 300px;
+    height: 350px;
 }
 
 .PO1{
+    border-radius: 50px;
     padding-left: 30px;
     width: 400px;
+    height: 350px;
+}
+
+.PO2{
+    border-radius: 50px;
+    padding-left: 30px;
+    width: 400px;
+    height: 350px;
+}
+.PO3{
+    border-radius: 50px;
+    padding-left: 30px;
+    width: 400px;
+    height: 350px;
+}
+
+.PST{
+    border-radius: 50px;
+    width: 400px;
+    height: 350px;
+}
+
+.PST1{
+    padding-left: 30px;
+    border-radius: 50px;
+    width: 400px;
+    height: 350px;
+}
+.PST2{
+    padding-left: 30px;
+    border-radius: 50px;
+    width: 400px;
+    height: 350px;
+}
+
+.PGL{
+    border-radius: 50px;
+    width: 400px;
+    height: 350px; 
+}
+.PGL1{
+    padding-left: 30px;
+    border-radius: 50px;
+    width: 400px;
+    height: 350px; 
+}
+
+.General{
+    justify-self: center;
+    text-align: center;
+    background-color: rgb(237, 202, 156);
+    border-radius: 40px;
+    width: 95%;
+    margin-bottom: 40px;
+    border: 4px solid rgb(229, 191, 140);
+}
+
+.Lutsk {
+    width: 400px;
     height: 300px;
+    margin: 0; /* Прибираємо зайвий відступ */
+    border-radius: 20px;
+}
+
+.Lustk1{
+    width: 400px;
+    height: 300px;
+    margin: 0;
+    padding-left: 30px;
+    border-radius: 20px;
+}
+
+.Lustk2{
+    width: 400px;
+    height: 300px;
+    margin: 0;
+    padding-left: 30px;
+    border-radius: 20px;
 }
 
 h3{
     font-size: 24px;
 }
-    
+
