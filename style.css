@@ -87,15 +87,6 @@ h2{
     text-align: center;
 }
 
-.Map{
-    width: 400px;
-    height: 350px;
-    border-radius: 20px;
-    margin: 0;
-    margin-left: 1200px;
-    margin-top: -50px;
-}
-
 .info{
     text-align: center;
 }
@@ -235,6 +226,20 @@ h2{
     width: 400px;
     height: 350px; 
 }
+.PGL2{
+    padding-left: 30px;
+    border-radius: 50px;
+    width: 400px;
+    height: 350px; 
+}
+.PGL3{
+    padding-left: 30px;
+    border-radius: 50px;
+    width: 400px;
+    height: 350px; 
+}
+
+
 
 .General{
     justify-self: center;
@@ -267,6 +272,14 @@ h2{
     margin: 0;
     padding-left: 30px;
     border-radius: 20px;
+}
+
+.map{
+    justify-self: center;
+}
+
+.Map{
+    border-radius: 30px;
 }
 
 h3{
