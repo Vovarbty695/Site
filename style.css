@@ -282,6 +282,12 @@ h2{
     border-radius: 30px;
 }
 
+.MO, .MST{
+
+    width: 50%;
+    border-radius: 20px;
+}
+
 h3{
     font-size: 24px;
 }
